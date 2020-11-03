@@ -13,7 +13,7 @@ Example following this tutorial [jeremie-chauvel.github.io](https://jeremie-chau
   - I wrote some content ~10min.
   - I created the repository to publish my page ~5min.
 - I searched pretty pictures on [Unsplash](https://unsplash.com/) ~30min.
-- I [cropped the images](https://youtu.be/hfhJcIGH4o0) to a correct form factor using [GIMP](https://www.gimp.org/) ~5-10min (depending on my theme, watch out for mobile)
+- I [cropped the images](https://youtu.be/hfhJcIGH4o0) to a correct form factor using [GIMP](https://www.gimp.org/) ~5-10min (depending on my theme, [watch out for mobile](https://www.cqlcorp.com/insights/how-to-view-the-mobile-version-of-a-website-on-your-desktop/))
 - I resized the pictures (about 1500 pixels width corresponding to my theme) using GIMP as well ~5min.
 
 (Bonus)
